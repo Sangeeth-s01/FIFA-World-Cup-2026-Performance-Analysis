@@ -1,0 +1,201 @@
+Round,Date,Venue,Team,Opponent,Score,OpponentScore,Possession,Shots,ShotsOnTarget,Saves,YellowCards,RedCards,Fouls,Corners,Crosses,Interceptions,Venue Role,Result
+Group stage,2026-06-11,"Estadio Banorte, Coyoacán",Mexico,South Africa,2.0,0.0,61,16,4,2,1,1,12,3,12,8,Home,Win
+Group stage,2026-06-11,"Estadio Akron, Zapopan",Korea Republic,Czechia,2.0,1.0,62,15,6,3,1,0,9,4,12,11,Home,Win
+Group stage,2026-06-12,"BMO Field, Toronto",Canada,Bosnia–Herz,1.0,1.0,61,13,4,2,2,0,10,9,24,4,Home,Draw
+Group stage,2026-06-12,"SoFi Stadium, Inglewood",United States,Paraguay,4.0,1.0,65,16,6,0,1,0,13,3,17,11,Home,Win
+Group stage,2026-06-13,"Levi's Stadium, Santa Clara",Qatar,Switzerland,1.0,1.0,32,7,4,5,2,0,12,3,8,10,Home,Draw
+Group stage,2026-06-13,"MetLife Stadium, East Rutherford",Brazil,Morocco,1.0,1.0,51,12,5,2,2,0,16,6,16,5,Home,Draw
+Group stage,2026-06-13,"BC Place Stadium, Vancouver",Australia,Türkiye,2.0,0.0,28,9,4,8,0,0,12,5,14,6,Home,Win
+Group stage,2026-06-13,"Gillette Stadium, Foxborough",Haiti,Scotland,0.0,1.0,54,15,2,1,1,0,23,4,23,6,Home,Loss
+Group stage,2026-06-14,"Reliant Stadium, Houston",Germany,Curaçao,7.0,1.0,65,26,12,1,0,0,18,8,12,10,Home,Win
+Group stage,2026-06-14,"AT&T Stadium, Arlington",Netherlands,Japan,2.0,2.0,60,10,6,1,3,0,7,5,21,7,Home,Draw
+Group stage,2026-06-14,"Lincoln Financial Field, Philadelphia",Côte d'Ivoire,Ecuador,1.0,0.0,48,15,4,1,3,0,10,3,7,11,Home,Win
+Group stage,2026-06-14,"Estadio BBVA Bancomer, Guadalupe",Sweden,Tunisia,5.0,1.0,49,13,7,1,0,0,10,4,12,8,Home,Win
+Group stage,2026-06-15,"Lumen Field, Seattle",Belgium,Egypt,1.0,1.0,54,15,3,2,2,0,15,2,16,10,Home,Draw
+Group stage,2026-06-15,"Mercedes-Benz Stadium, Atlanta",Spain,Cabo Verde,0.0,0.0,74,27,7,1,1,0,10,11,36,6,Home,Draw
+Group stage,2026-06-15,"Hard Rock Stadium, Miami Gardens",Saudi Arabia,Uruguay,1.0,1.0,33,7,3,9,1,0,11,4,7,7,Home,Draw
+Group stage,2026-06-15,"SoFi Stadium, Inglewood",IR Iran,New Zealand,2.0,2.0,48,17,4,6,1,0,10,4,19,11,Home,Draw
+Group stage,2026-06-16,"MetLife Stadium, East Rutherford",France,Senegal,3.0,1.0,54,11,8,2,0,0,5,6,9,7,Home,Win
+Group stage,2026-06-16,"Gillette Stadium, Foxborough",Iraq,Norway,1.0,4.0,39,11,1,2,1,0,12,2,13,5,Home,Loss
+Group stage,2026-06-16,"GEHA Field at Arrowhead Stadium, Kansas City",Argentina,Algeria,3.0,0.0,48,10,6,0,0,0,13,2,5,12,Home,Win
+Group stage,2026-06-16,"Levi's Stadium, Santa Clara",Austria,Jordan,3.0,1.0,63,11,4,3,1,0,12,4,17,15,Home,Win
+Group stage,2026-06-17,"Reliant Stadium, Houston",Portugal,Congo DR,1.0,1.0,75,7,1,1,3,0,9,5,23,2,Home,Draw
+Group stage,2026-06-17,"AT&T Stadium, Arlington",England,Croatia,4.0,2.0,52,22,11,3,0,0,10,8,13,7,Home,Win
+Group stage,2026-06-17,"BMO Field, Toronto",Ghana,Panama,1.0,0.0,38,8,2,4,1,0,9,2,16,8,Home,Win
+Group stage,2026-06-17,"Estadio Banorte, Coyoacán",Uzbekistan,Colombia,1.0,3.0,39,8,2,1,1,0,14,3,13,7,Home,Loss
+Group stage,2026-06-18,"Mercedes-Benz Stadium, Atlanta",Czechia,South Africa,1.0,1.0,38,14,3,3,1,0,12,5,16,9,Home,Draw
+Group stage,2026-06-18,"SoFi Stadium, Inglewood",Switzerland,Bosnia–Herz,4.0,1.0,62,13,7,2,1,0,7,7,22,4,Home,Win
+Group stage,2026-06-18,"BC Place Stadium, Vancouver",Canada,Qatar,6.0,0.0,79,32,10,0,1,0,9,19,55,6,Home,Win
+Group stage,2026-06-18,"Estadio Akron, Zapopan",Mexico,Korea Republic,1.0,0.0,42,8,4,2,0,0,9,0,5,7,Home,Win
+Group stage,2026-06-19,"Lumen Field, Seattle",United States,Australia,2.0,0.0,62,10,2,2,3,0,12,7,14,21,Home,Win
+Group stage,2026-06-19,"Gillette Stadium, Foxborough",Scotland,Morocco,0.0,1.0,41,6,0,1,1,0,11,2,13,9,Home,Loss
+Group stage,2026-06-19,"Levi's Stadium, Santa Clara",Türkiye,Paraguay,0.0,1.0,79,32,5,1,2,0,14,12,42,6,Home,Loss
+Group stage,2026-06-19,"Lincoln Financial Field, Philadelphia",Brazil,Haiti,3.0,0.0,57,8,5,3,1,0,13,4,9,10,Home,Win
+Group stage,2026-06-20,"Reliant Stadium, Houston",Netherlands,Sweden,5.0,1.0,51,10,7,7,0,0,9,2,15,8,Home,Win
+Group stage,2026-06-20,"BMO Field, Toronto",Germany,Côte d'Ivoire,2.0,1.0,59,16,7,1,0,0,5,8,21,7,Home,Win
+Group stage,2026-06-20,"GEHA Field at Arrowhead Stadium, Kansas City",Ecuador,Curaçao,0.0,0.0,75,27,15,3,1,0,7,9,32,7,Home,Draw
+Group stage,2026-06-20,"Estadio BBVA, Guadalupe",Tunisia,Japan,0.0,4.0,38,2,0,1,0,0,8,3,10,14,Home,Loss
+Group stage,2026-06-21,"Mercedes-Benz Stadium, Atlanta",Spain,Saudi Arabia,4.0,0.0,67,22,8,1,0,0,10,6,25,16,Home,Win
+Group stage,2026-06-21,"SoFi Stadium, Inglewood",Belgium,IR Iran,0.0,0.0,70,23,7,3,1,1,7,4,32,3,Home,Draw
+Group stage,2026-06-21,"Hard Rock Stadium, Miami Gardens",Uruguay,Cabo Verde,2.0,2.0,65,17,2,2,2,0,11,11,29,8,Home,Draw
+Group stage,2026-06-21,"BC Place Stadium, Vancouver",New Zealand,Egypt,1.0,3.0,44,11,5,4,2,0,14,4,15,5,Home,Loss
+Group stage,2026-06-22,"AT&T Stadium, Arlington",Argentina,Austria,2.0,0.0,54,12,5,1,2,0,13,1,4,8,Home,Win
+Group stage,2026-06-22,"Lincoln Financial Field, Philadelphia",France,Iraq,3.0,0.0,56,19,5,0,0,0,8,4,14,5,Home,Win
+Group stage,2026-06-22,"MetLife Stadium, East Rutherford",Norway,Senegal,3.0,2.0,42,13,7,2,0,0,13,5,10,8,Home,Win
+Group stage,2026-06-22,"Levi's Stadium, Santa Clara",Jordan,Algeria,1.0,2.0,28,8,4,6,1,0,11,1,5,2,Home,Loss
+Group stage,2026-06-23,"Reliant Stadium, Houston",Portugal,Uzbekistan,5.0,0.0,66,17,9,2,1,0,14,3,22,5,Home,Win
+Group stage,2026-06-23,"Gillette Stadium, Foxborough",England,Ghana,0.0,0.0,79,19,3,0,1,0,14,9,30,1,Home,Draw
+Group stage,2026-06-23,"BMO Field, Toronto",Panama,Croatia,0.0,1.0,42,8,1,1,1,0,19,7,29,4,Home,Loss
+Group stage,2026-06-23,"Estadio Akron, Zapopan",Colombia,Congo DR,1.0,0.0,64,20,9,1,2,0,12,5,12,10,Home,Win
+Group stage,2026-06-24,"BC Place Stadium, Vancouver",Switzerland,Canada,2.0,1.0,55,6,4,6,1,0,19,2,6,5,Home,Win
+Group stage,2026-06-24,"Lumen Field, Seattle",Bosnia–Herz,Qatar,3.0,1.0,55,14,5,2,1,0,9,5,22,4,Home,Win
+Group stage,2026-06-24,"Hard Rock Stadium, Miami Gardens",Scotland,Brazil,0.0,3.0,46,14,5,5,1,0,10,7,23,2,Home,Loss
+Group stage,2026-06-24,"Mercedes-Benz Stadium, Atlanta",Morocco,Haiti,4.0,2.0,69,22,11,1,0,0,10,9,22,7,Home,Win
+Group stage,2026-06-24,"Estadio BBVA, Guadalupe",South Africa,Korea Republic,1.0,0.0,32,13,4,2,1,0,7,4,8,15,Home,Win
+Group stage,2026-06-24,"Estadio Banorte, Coyoacán",Czechia,Mexico,0.0,3.0,52,13,1,2,0,0,9,5,26,3,Home,Loss
+Group stage,2026-06-25,"Lincoln Financial Field, Philadelphia",Curaçao,Côte d'Ivoire,0.0,2.0,37,11,2,1,2,0,11,4,15,15,Home,Loss
+Group stage,2026-06-25,"MetLife Stadium, East Rutherford",Ecuador,Germany,2.0,1.0,39,7,3,2,3,0,15,3,12,12,Home,Win
+Group stage,2026-06-25,"GEHA Field at Arrowhead Stadium, Kansas City",Tunisia,Netherlands,1.0,3.0,29,10,4,4,0,0,11,4,13,8,Home,Loss
+Group stage,2026-06-25,"AT&T Stadium, Arlington",Japan,Sweden,1.0,1.0,52,8,3,4,1,0,20,2,13,4,Home,Draw
+Group stage,2026-06-25,"SoFi Stadium, Inglewood",Türkiye,United States,3.0,2.0,48,9,3,5,0,0,13,2,11,8,Home,Win
+Group stage,2026-06-25,"Levi's Stadium, Santa Clara",Paraguay,Australia,0.0,0.0,44,7,2,5,1,0,9,1,7,8,Home,Draw
+Group stage,2026-06-26,"Gillette Stadium, Foxborough",Norway,France,1.0,4.0,43,10,4,5,1,0,9,4,9,13,Home,Loss
+Group stage,2026-06-26,"BMO Field, Toronto",Senegal,Iraq,5.0,0.0,69,28,12,1,2,0,10,12,25,2,Home,Win
+Group stage,2026-06-26,"Estadio Akron, Zapopan",Uruguay,Spain,0.0,1.0,33,5,1,0,3,1,14,1,16,14,Home,Loss
+Group stage,2026-06-26,"Reliant Stadium, Houston",Cabo Verde,Saudi Arabia,0.0,0.0,51,15,2,3,1,0,10,4,18,13,Home,Draw
+Group stage,2026-06-26,"Lumen Field, Seattle",Egypt,IR Iran,1.0,1.0,61,15,3,1,3,0,11,8,15,7,Home,Draw
+Group stage,2026-06-26,"BC Place Stadium, Vancouver",New Zealand,Belgium,1.0,5.0,45,6,2,5,2,0,10,5,17,6,Home,Loss
+Group stage,2026-06-27,"Lincoln Financial Field, Philadelphia",Croatia,Ghana,2.0,1.0,53,8,4,0,1,0,9,3,15,4,Home,Win
+Group stage,2026-06-27,"MetLife Stadium, East Rutherford",Panama,England,0.0,2.0,33,13,2,4,2,0,16,3,9,6,Home,Loss
+Group stage,2026-06-27,"Mercedes-Benz Stadium, Atlanta",Congo DR,Uzbekistan,3.0,1.0,58,19,4,1,3,0,6,2,21,7,Home,Win
+Group stage,2026-06-27,"Hard Rock Stadium, Miami Gardens",Colombia,Portugal,0.0,0.0,55,24,6,2,1,0,12,5,10,5,Home,Draw
+Group stage,2026-06-27,"AT&T Stadium, Arlington",Jordan,Argentina,1.0,3.0,27,5,1,1,3,0,13,2,7,19,Home,Loss
+Group stage,2026-06-27,"GEHA Field at Arrowhead Stadium, Kansas City",Algeria,Austria,3.0,3.0,65,12,5,0,0,0,3,0,5,3,Home,Draw
+Round of 32,2026-06-28,"SoFi Stadium, Inglewood",South Africa,Canada,0.0,1.0,58,6,1,5,0,0,10,1,8,16,Home,Loss
+Round of 32,2026-06-29,"Reliant Stadium, Houston",Brazil,Japan,2.0,1.0,69,19,7,1,2,0,4,6,40,9,Home,Win
+Round of 32,2026-06-29,"Gillette Stadium, Foxborough",Germany,Paraguay,,,75,21,6,2,3,0,18,16,56,4,Home,Draw
+Round of 32,2026-06-29,"Estadio BBVA, Guadalupe",Netherlands,Morocco,,,30,6,2,5,0,0,18,5,10,11,Home,Draw
+Round of 32,2026-06-30,"AT&T Stadium, Arlington",Côte d'Ivoire,Norway,1.0,2.0,47,14,5,1,0,0,6,14,29,4,Home,Loss
+Round of 32,2026-06-30,"MetLife Stadium, East Rutherford",France,Sweden,3.0,0.0,61,25,12,3,0,0,14,9,16,5,Home,Win
+Round of 32,2026-06-30,"Estadio Banorte, Coyoacán",Mexico,Ecuador,2.0,0.0,43,15,3,1,0,0,10,3,7,7,Home,Win
+Round of 32,2026-07-01,"Mercedes-Benz Stadium, Atlanta",England,Congo DR,2.0,1.0,60,16,7,1,1,0,10,5,43,7,Home,Win
+Round of 32,2026-07-01,"Lumen Field, Seattle",Belgium,Senegal,3.0,2.0,52,19,5,3,2,0,22,4,26,8,Home,Win
+Round of 32,2026-07-01,"Levi's Stadium, Santa Clara",United States,Bosnia–Herz,2.0,0.0,48,8,2,3,0,1,7,4,14,8,Home,Win
+Round of 32,2026-07-02,"SoFi Stadium, Inglewood",Spain,Austria,3.0,0.0,65,23,10,0,0,0,8,9,22,6,Home,Win
+Round of 32,2026-07-02,"BMO Field, Toronto",Portugal,Croatia,2.0,1.0,61,15,3,5,1,0,6,9,20,5,Home,Win
+Round of 32,2026-07-02,"BC Place Stadium, Vancouver",Switzerland,Algeria,2.0,0.0,45,11,5,2,0,0,10,4,14,17,Home,Win
+Round of 32,2026-07-03,"AT&T Stadium, Arlington",Australia,Egypt,,,42,16,1,3,0,0,12,4,24,9,Home,Draw
+Round of 32,2026-07-03,"Hard Rock Stadium, Miami Gardens",Argentina,Cabo Verde,3.0,2.0,64,22,10,3,1,0,13,8,15,9,Home,Win
+Round of 32,2026-07-03,"GEHA Field at Arrowhead Stadium, Kansas City",Colombia,Ghana,1.0,0.0,61,20,8,0,2,0,14,3,15,5,Home,Win
+Round of 16,2026-07-04,"Reliant Stadium, Houston",Canada,Morocco,0.0,3.0,45,10,3,1,4,0,24,11,29,5,Home,Loss
+Round of 16,2026-07-04,"Lincoln Financial Field, Philadelphia",Paraguay,France,0.0,1.0,24,5,0,4,0,0,13,2,4,14,Home,Loss
+Round of 16,2026-07-05,"MetLife Stadium, East Rutherford",Brazil,Norway,1.0,2.0,34,14,4,3,1,0,7,5,16,11,Home,Loss
+Round of 16,2026-07-05,"Estadio Banorte, Coyoacán",Mexico,England,2.0,3.0,67,20,5,2,2,0,14,12,49,7,Home,Loss
+Round of 16,2026-07-06,"AT&T Stadium, Arlington",Portugal,Spain,0.0,1.0,45,10,2,5,2,0,9,3,13,7,Home,Loss
+Round of 16,2026-07-06,"Lumen Field, Seattle",United States,Belgium,1.0,4.0,56,7,2,3,2,0,11,3,11,9,Home,Loss
+Round of 16,2026-07-07,"Mercedes-Benz Stadium, Atlanta",Argentina,Egypt,3.0,2.0,64,19,7,0,0,0,13,6,26,7,Home,Win
+Round of 16,2026-07-07,"BC Place Stadium, Vancouver",Switzerland,Colombia,,,53,7,2,3,3,0,22,3,15,13,Home,Draw
+Quarter-finals,2026-07-09,"Gillette Stadium, Foxborough",France,Morocco,2.0,0.0,48,22,8,1,0,0,10,5,12,11,Home,Win
+Quarter-finals,2026-07-10,"SoFi Stadium, Inglewood",Spain,Belgium,2.0,1.0,68,17,8,1,2,0,13,5,19,4,Home,Win
+Quarter-finals,2026-07-11,"Hard Rock Stadium, Miami Gardens",Norway,England,1.0,2.0,48,13,4,6,1,0,10,7,19,8,Home,Loss
+Quarter-finals,2026-07-11,"GEHA Field at Arrowhead Stadium, Kansas City",Argentina,Switzerland,3.0,1.0,59,22,7,4,3,0,14,8,22,12,Home,Win
+Group stage,2026-06-11,"Estadio Banorte, Coyoacán",South Africa,Mexico,0.0,2.0,40,3,2,2,2,2,11,1,8,7,Away,Loss
+Group stage,2026-06-11,"Estadio Akron, Zapopan",Czechia,Korea Republic,1.0,2.0,38,7,4,4,0,0,16,5,15,7,Away,Loss
+Group stage,2026-06-12,"BMO Field, Toronto",Bosnia–Herz,Canada,1.0,1.0,39,8,3,1,3,0,20,4,10,10,Away,Draw
+Group stage,2026-06-12,"SoFi Stadium, Inglewood",Paraguay,United States,1.0,4.0,35,9,1,3,5,0,17,1,5,9,Away,Loss
+Group stage,2026-06-13,"Levi's Stadium, Santa Clara",Switzerland,Qatar,1.0,1.0,68,26,7,3,1,0,11,10,35,7,Away,Draw
+Group stage,2026-06-13,"MetLife Stadium, East Rutherford",Morocco,Brazil,1.0,1.0,49,14,3,4,0,0,14,2,15,4,Away,Draw
+Group stage,2026-06-13,"BC Place Stadium, Vancouver",Türkiye,Australia,0.0,2.0,72,30,8,2,1,0,4,8,26,4,Away,Loss
+Group stage,2026-06-13,"Gillette Stadium, Foxborough",Scotland,Haiti,1.0,0.0,46,9,2,2,3,0,21,3,14,6,Away,Win
+Group stage,2026-06-14,"Reliant Stadium, Houston",Curaçao,Germany,1.0,7.0,35,8,2,4,0,0,11,1,7,16,Away,Loss
+Group stage,2026-06-14,"AT&T Stadium, Arlington",Japan,Netherlands,2.0,2.0,40,10,3,4,0,0,7,4,23,4,Away,Draw
+Group stage,2026-06-14,"Lincoln Financial Field, Philadelphia",Ecuador,Côte d'Ivoire,0.0,1.0,52,12,1,3,1,0,13,5,14,13,Away,Loss
+Group stage,2026-06-14,"Estadio BBVA Bancomer, Guadalupe",Tunisia,Sweden,1.0,5.0,51,6,2,1,1,0,8,2,13,5,Away,Loss
+Group stage,2026-06-15,"Lumen Field, Seattle",Egypt,Belgium,1.0,1.0,46,14,3,3,2,0,15,7,13,12,Away,Draw
+Group stage,2026-06-15,"Mercedes-Benz Stadium, Atlanta",Cabo Verde,Spain,0.0,0.0,26,6,1,7,1,0,1,1,4,16,Away,Draw
+Group stage,2026-06-15,"Hard Rock Stadium, Miami Gardens",Uruguay,Saudi Arabia,1.0,1.0,67,27,10,2,0,0,6,14,47,10,Away,Draw
+Group stage,2026-06-15,"SoFi Stadium, Inglewood",New Zealand,IR Iran,2.0,2.0,52,14,8,2,0,0,8,1,12,13,Away,Draw
+Group stage,2026-06-16,"MetLife Stadium, East Rutherford",Senegal,France,1.0,3.0,46,6,2,5,0,0,9,4,9,8,Away,Loss
+Group stage,2026-06-16,"Gillette Stadium, Foxborough",Norway,Iraq,4.0,1.0,61,12,5,0,0,0,13,5,17,3,Away,Win
+Group stage,2026-06-16,"GEHA Field at Arrowhead Stadium, Kansas City",Algeria,Argentina,0.0,3.0,52,7,0,3,0,0,8,2,8,8,Away,Loss
+Group stage,2026-06-16,"Levi's Stadium, Santa Clara",Jordan,Austria,1.0,3.0,37,11,4,1,0,0,7,3,15,12,Away,Loss
+Group stage,2026-06-17,"Reliant Stadium, Houston",Congo DR,Portugal,1.0,1.0,25,8,2,0,1,0,10,4,9,5,Away,Draw
+Group stage,2026-06-17,"AT&T Stadium, Arlington",Croatia,England,2.0,4.0,48,10,5,7,0,0,12,2,13,7,Away,Loss
+Group stage,2026-06-17,"BMO Field, Toronto",Panama,Ghana,0.0,1.0,62,11,4,2,2,0,11,2,21,5,Away,Loss
+Group stage,2026-06-17,"Estadio Banorte, Coyoacán",Colombia,Uzbekistan,3.0,1.0,62,15,4,1,1,0,11,4,15,6,Away,Win
+Group stage,2026-06-18,"Mercedes-Benz Stadium, Atlanta",South Africa,Czechia,1.0,1.0,62,17,4,2,2,0,10,5,17,9,Away,Draw
+Group stage,2026-06-18,"SoFi Stadium, Inglewood",Bosnia–Herz,Switzerland,1.0,4.0,38,5,3,3,2,1,18,3,12,12,Away,Loss
+Group stage,2026-06-18,"BC Place Stadium, Vancouver",Qatar,Canada,0.0,6.0,21,2,0,4,1,2,10,1,3,11,Away,Loss
+Group stage,2026-06-18,"Estadio Akron, Zapopan",Korea Republic,Mexico,0.0,1.0,58,9,2,3,2,0,7,2,9,5,Away,Loss
+Group stage,2026-06-19,"Lumen Field, Seattle",Australia,United States,0.0,2.0,38,5,2,1,4,0,16,4,19,7,Away,Loss
+Group stage,2026-06-19,"Gillette Stadium, Foxborough",Morocco,Scotland,1.0,0.0,59,12,2,0,1,0,8,5,10,5,Away,Win
+Group stage,2026-06-19,"Levi's Stadium, Santa Clara",Paraguay,Türkiye,1.0,0.0,22,7,2,5,1,1,15,0,6,9,Away,Win
+Group stage,2026-06-19,"Lincoln Financial Field, Philadelphia",Haiti,Brazil,0.0,3.0,43,7,3,2,3,0,14,4,11,9,Away,Loss
+Group stage,2026-06-20,"Reliant Stadium, Houston",Sweden,Netherlands,1.0,5.0,49,16,8,2,3,0,12,5,21,6,Away,Loss
+Group stage,2026-06-20,"BMO Field, Toronto",Côte d'Ivoire,Germany,1.0,2.0,41,9,2,5,0,0,7,3,9,13,Away,Loss
+Group stage,2026-06-20,"GEHA Field at Arrowhead Stadium, Kansas City",Curaçao,Ecuador,0.0,0.0,25,10,3,15,5,0,10,0,1,8,Away,Draw
+Group stage,2026-06-20,"Estadio BBVA, Guadalupe",Japan,Tunisia,4.0,0.0,62,11,5,0,0,0,15,5,11,6,Away,Win
+Group stage,2026-06-21,"Mercedes-Benz Stadium, Atlanta",Saudi Arabia,Spain,0.0,4.0,33,3,1,5,2,0,2,1,5,12,Away,Loss
+Group stage,2026-06-21,"SoFi Stadium, Inglewood",IR Iran,Belgium,0.0,0.0,30,7,3,7,1,0,9,2,8,13,Away,Draw
+Group stage,2026-06-21,"Hard Rock Stadium, Miami Gardens",Cabo Verde,Uruguay,2.0,2.0,35,12,4,0,2,0,4,4,7,13,Away,Draw
+Group stage,2026-06-21,"BC Place Stadium, Vancouver",Egypt,New Zealand,3.0,1.0,56,19,7,4,1,0,8,3,22,7,Away,Win
+Group stage,2026-06-22,"AT&T Stadium, Arlington",Austria,Argentina,0.0,2.0,46,6,1,2,2,0,13,3,16,9,Away,Loss
+Group stage,2026-06-22,"Lincoln Financial Field, Philadelphia",Iraq,France,0.0,3.0,45,4,0,2,1,0,4,2,9,11,Away,Loss
+Group stage,2026-06-22,"MetLife Stadium, East Rutherford",Senegal,Norway,2.0,3.0,58,16,4,3,0,0,5,4,23,10,Away,Loss
+Group stage,2026-06-22,"Levi's Stadium, Santa Clara",Algeria,Jordan,2.0,1.0,72,17,8,3,1,0,6,10,21,10,Away,Win
+Group stage,2026-06-23,"Reliant Stadium, Houston",Uzbekistan,Portugal,0.0,5.0,34,7,2,4,1,0,15,2,8,14,Away,Loss
+Group stage,2026-06-23,"Gillette Stadium, Foxborough",Ghana,England,0.0,0.0,21,2,1,3,1,0,24,2,5,8,Away,Draw
+Group stage,2026-06-23,"BMO Field, Toronto",Croatia,Panama,1.0,0.0,58,6,2,1,1,0,12,2,17,5,Away,Win
+Group stage,2026-06-23,"Estadio Akron, Zapopan",Congo DR,Colombia,0.0,1.0,37,7,1,8,1,0,16,4,14,7,Away,Loss
+Group stage,2026-06-24,"BC Place Stadium, Vancouver",Canada,Switzerland,1.0,2.0,45,13,7,2,2,0,13,7,26,13,Away,Loss
+Group stage,2026-06-24,"Lumen Field, Seattle",Qatar,Bosnia–Herz,1.0,3.0,46,9,3,3,1,0,14,5,17,4,Away,Loss
+Group stage,2026-06-24,"Hard Rock Stadium, Miami Gardens",Brazil,Scotland,3.0,0.0,54,21,9,5,2,0,11,6,12,13,Away,Win
+Group stage,2026-06-24,"Mercedes-Benz Stadium, Atlanta",Haiti,Morocco,2.0,4.0,31,9,2,8,3,0,18,1,3,14,Away,Loss
+Group stage,2026-06-24,"Estadio BBVA, Guadalupe",Korea Republic,South Africa,0.0,1.0,69,8,3,3,1,0,9,6,33,4,Away,Loss
+Group stage,2026-06-24,"Estadio Banorte, Coyoacán",Mexico,Czechia,3.0,0.0,48,11,5,1,1,0,13,1,13,7,Away,Win
+Group stage,2026-06-25,"Lincoln Financial Field, Philadelphia",Côte d'Ivoire,Curaçao,2.0,0.0,63,7,3,2,1,0,6,6,16,12,Away,Win
+Group stage,2026-06-25,"MetLife Stadium, East Rutherford",Germany,Ecuador,1.0,2.0,61,11,3,1,1,0,10,2,16,4,Away,Loss
+Group stage,2026-06-25,"GEHA Field at Arrowhead Stadium, Kansas City",Netherlands,Tunisia,3.0,1.0,72,20,7,3,0,0,10,6,28,10,Away,Win
+Group stage,2026-06-25,"AT&T Stadium, Arlington",Sweden,Japan,1.0,1.0,48,11,5,2,2,0,11,8,16,5,Away,Draw
+Group stage,2026-06-25,"SoFi Stadium, Inglewood",United States,Türkiye,2.0,3.0,53,18,7,0,1,0,13,9,18,11,Away,Loss
+Group stage,2026-06-25,"Levi's Stadium, Santa Clara",Australia,Paraguay,0.0,0.0,56,12,5,2,1,0,6,3,13,7,Away,Draw
+Group stage,2026-06-26,"Gillette Stadium, Foxborough",France,Norway,4.0,1.0,57,18,9,2,1,0,11,5,9,11,Away,Win
+Group stage,2026-06-26,"BMO Field, Toronto",Iraq,Senegal,0.0,5.0,31,6,1,7,2,1,11,3,6,7,Away,Loss
+Group stage,2026-06-26,"Estadio Akron, Zapopan",Spain,Uruguay,1.0,0.0,67,6,1,1,1,0,14,6,12,9,Away,Win
+Group stage,2026-06-26,"Reliant Stadium, Houston",Saudi Arabia,Cabo Verde,0.0,0.0,49,7,3,2,3,0,16,2,10,10,Away,Draw
+Group stage,2026-06-26,"Lumen Field, Seattle",IR Iran,Egypt,1.0,1.0,39,13,4,2,4,0,16,2,10,8,Away,Draw
+Group stage,2026-06-26,"BC Place Stadium, Vancouver",Belgium,New Zealand,5.0,1.0,55,35,10,1,0,0,7,8,16,10,Away,Win
+Group stage,2026-06-27,"Lincoln Financial Field, Philadelphia",Ghana,Croatia,1.0,2.0,47,6,1,2,1,0,13,2,12,10,Away,Loss
+Group stage,2026-06-27,"MetLife Stadium, East Rutherford",England,Panama,2.0,0.0,67,17,6,2,1,0,13,7,25,5,Away,Win
+Group stage,2026-06-27,"Mercedes-Benz Stadium, Atlanta",Uzbekistan,Congo DR,1.0,3.0,42,3,1,1,2,0,16,4,16,12,Away,Loss
+Group stage,2026-06-27,"Hard Rock Stadium, Miami Gardens",Portugal,Colombia,0.0,0.0,45,13,2,6,0,0,6,2,14,11,Away,Draw
+Group stage,2026-06-27,"AT&T Stadium, Arlington",Argentina,Jordan,3.0,1.0,73,12,4,0,0,0,7,6,5,12,Away,Win
+Group stage,2026-06-27,"GEHA Field at Arrowhead Stadium, Kansas City",Austria,Algeria,3.0,3.0,35,10,3,2,1,0,7,3,13,10,Away,Draw
+Round of 32,2026-06-28,"SoFi Stadium, Inglewood",Canada,South Africa,1.0,0.0,42,12,7,1,2,0,16,4,12,8,Away,Win
+Round of 32,2026-06-29,"Reliant Stadium, Houston",Japan,Brazil,1.0,2.0,31,5,2,4,3,0,13,2,10,5,Away,Loss
+Round of 32,2026-06-29,"Gillette Stadium, Foxborough",Paraguay,Germany,,,25,7,3,6,3,0,12,6,21,13,Away,Draw
+Round of 32,2026-06-29,"Estadio BBVA, Guadalupe",Morocco,Netherlands,,,70,11,5,1,1,0,15,8,18,10,Away,Draw
+Round of 32,2026-06-30,"AT&T Stadium, Arlington",Norway,Côte d'Ivoire,2.0,1.0,53,9,4,4,1,0,7,3,10,6,Away,Win
+Round of 32,2026-06-30,"MetLife Stadium, East Rutherford",Sweden,France,0.0,3.0,39,8,3,9,0,0,10,1,10,12,Away,Loss
+Round of 32,2026-06-30,"Estadio Banorte, Coyoacán",Ecuador,Mexico,0.0,2.0,57,7,1,1,3,1,14,8,25,6,Away,Loss
+Round of 32,2026-07-01,"Mercedes-Benz Stadium, Atlanta",Congo DR,England,1.0,2.0,40,7,2,5,1,0,12,3,13,3,Away,Loss
+Round of 32,2026-07-01,"Lumen Field, Seattle",Senegal,Belgium,2.0,3.0,48,19,5,3,1,0,12,2,22,11,Away,Loss
+Round of 32,2026-07-01,"Levi's Stadium, Santa Clara",Bosnia–Herz,United States,0.0,2.0,52,10,3,0,2,0,13,3,13,8,Away,Loss
+Round of 32,2026-07-02,"SoFi Stadium, Inglewood",Austria,Spain,0.0,3.0,36,5,0,6,1,0,15,0,13,7,Away,Loss
+Round of 32,2026-07-02,"BMO Field, Toronto",Croatia,Portugal,1.0,2.0,40,13,6,2,2,0,12,5,22,9,Away,Loss
+Round of 32,2026-07-02,"BC Place Stadium, Vancouver",Algeria,Switzerland,0.0,2.0,55,8,2,2,2,0,12,2,6,9,Away,Loss
+Round of 32,2026-07-03,"AT&T Stadium, Arlington",Egypt,Australia,,,58,14,3,1,2,0,14,7,24,8,Away,Draw
+Round of 32,2026-07-03,"Hard Rock Stadium, Miami Gardens",Cabo Verde,Argentina,2.0,3.0,37,16,5,8,1,0,12,8,21,10,Away,Loss
+Round of 32,2026-07-03,"GEHA Field at Arrowhead Stadium, Kansas City",Ghana,Colombia,0.0,1.0,39,8,0,7,3,0,10,2,15,5,Away,Loss
+Round of 16,2026-07-04,"Reliant Stadium, Houston",Morocco,Canada,3.0,0.0,55,5,4,3,4,0,14,1,5,8,Away,Win
+Round of 16,2026-07-04,"Lincoln Financial Field, Philadelphia",France,Paraguay,1.0,0.0,76,15,5,0,3,0,11,12,23,10,Away,Win
+Round of 16,2026-07-05,"MetLife Stadium, East Rutherford",Norway,Brazil,2.0,1.0,66,9,5,3,0,0,6,5,13,6,Away,Win
+Round of 16,2026-07-05,"Estadio Banorte, Coyoacán",England,Mexico,3.0,2.0,33,6,5,3,4,1,7,2,4,4,Away,Win
+Round of 16,2026-07-06,"AT&T Stadium, Arlington",Spain,Portugal,1.0,0.0,56,15,6,2,1,0,13,7,16,5,Away,Win
+Round of 16,2026-07-06,"Lumen Field, Seattle",Belgium,United States,4.0,1.0,44,15,7,1,0,0,9,5,14,9,Away,Win
+Round of 16,2026-07-07,"Mercedes-Benz Stadium, Atlanta",Egypt,Argentina,2.0,3.0,36,5,2,3,5,0,11,1,8,10,Away,Loss
+Round of 16,2026-07-07,"BC Place Stadium, Vancouver",Colombia,Switzerland,,,47,15,3,2,2,0,21,7,18,12,Away,Draw
+Quarter-finals,2026-07-09,"Gillette Stadium, Foxborough",Morocco,France,0.0,2.0,52,5,1,5,1,0,13,5,13,6,Away,Loss
+Quarter-finals,2026-07-10,"SoFi Stadium, Inglewood",Belgium,Spain,1.0,2.0,32,5,2,6,2,0,18,1,10,10,Away,Loss
+Quarter-finals,2026-07-11,"Hard Rock Stadium, Miami Gardens",England,Norway,2.0,1.0,52,14,8,3,0,0,8,4,21,7,Away,Win
+Quarter-finals,2026-07-11,"GEHA Field at Arrowhead Stadium, Kansas City",Switzerland,Argentina,1.0,3.0,41,11,5,4,2,1,18,2,19,6,Away,Loss
