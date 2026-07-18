@@ -1,0 +1,207 @@
+# ⚽ FIFA World Cup 2026 Performance Analysis
+
+> An interactive Power BI dashboard that analyzes FIFA World Cup 2026 performance up to the semi-finals using Power BI, Power Query, DAX, and data modeling.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green?style=for-the-badge)
+![Sports Analytics](https://img.shields.io/badge/Sports-Analytics-red?style=for-the-badge)
+
+---
+
+# 📖 Overview
+
+This project explores the performance of teams and players in the **FIFA World Cup 2026** up to the **Semi-finals**.
+
+The objective was to identify the factors that contributed most to successful teams by combining football statistics with Business Intelligence techniques.
+
+The dashboard was built using **Power BI** and focuses on:
+
+- Team Performance
+- Player Impact
+- Match Control
+- Attacking & Defensive Efficiency
+- Semi-finalist Success Factors
+
+---
+
+# 🚀 Features
+
+- Interactive Power BI Dashboard
+- Star Schema Data Model
+- Power Query Data Cleaning
+- Custom DAX Measures
+- Team Performance Index
+- Team Attack Index
+- Team Defense Index
+- Match Control Index
+- Goal Conversion Analysis
+- Player Contribution Analysis
+- Executive Dashboard
+- Interactive Filters & Slicers
+
+---
+
+# 📊 Dashboard Pages
+
+## 1️⃣ Executive Overview
+
+Provides a tournament-wide summary including:
+
+- Semi-finalists
+- Goals per Match
+- Performance Index
+- Top Performing Teams
+- Key Tournament Findings
+
+---
+
+## 2️⃣ Team Performance Analysis
+
+Analyzes what separated semi-finalists from other teams.
+
+Highlights:
+
+- Attack Index
+- Defense Index
+- Match Control
+- Scatter Analysis
+- Team Comparison
+- Performance Distribution
+
+---
+
+## 3️⃣ Player Impact Analysis
+
+Evaluates individual player contributions across:
+
+- Goal Contribution
+- Defensive Contribution
+- Goalkeeper Performance
+- Position-based Analysis
+
+---
+
+## 4️⃣ Semi-finalist Success Profile
+
+Identifies the defining characteristics of successful teams through:
+
+- Performance Gap Analysis
+- Success Factors
+- Trade-off Analysis
+- Executive Insights
+
+---
+
+# 📈 Key Insights
+
+- Semi-finalists consistently outperformed other teams in Match Control and Possession.
+
+- Attacking efficiency proved to be a stronger differentiator than defensive statistics.
+
+- Elite attacking players had the highest impact on overall team performance.
+
+- Defensive contributions were more evenly distributed among players.
+
+- Controlling possession translated into better goal conversion and attacking output.
+
+---
+
+# 🛠️ Tech Stack
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Star Schema
+- Data Visualization
+
+---
+
+# 📂 Project Structure
+
+```text
+FIFA-World-Cup-2026-Performance-Analysis
+│
+├── Dataset
+├── Images
+├── FIFA_World_Cup_2026.pbix
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+# 📷 Dashboard Preview
+
+## Executive Overview
+
+> Add screenshot here
+
+```
+Images/Overview.png
+```
+
+---
+
+## Team Performance Analysis
+
+> Add screenshot here
+
+```
+Images/TeamPerformance.png
+```
+
+---
+
+## Player Impact Analysis
+
+> Add screenshot here
+
+```
+Images/PlayerImpact.png
+```
+
+---
+
+## Semi-finalist Profile
+
+> Add screenshot here
+
+```
+Images/SemiFinalistProfile.png
+```
+
+---
+
+# 📌 Future Improvements
+
+- Predictive Match Outcome Model
+- Player Similarity Analysis
+- Team Ranking Algorithm
+- Expected Goals (xG) Integration
+- Machine Learning-based Tournament Predictions
+
+---
+
+# 📚 Skills Demonstrated
+
+- Business Intelligence
+- Dashboard Design
+- Data Cleaning
+- Data Modeling
+- DAX
+- Data Visualization
+- Sports Analytics
+- Analytical Storytelling
+
+---
+
+# ⭐ About
+
+This project was created as part of my journey into **Data Analytics** and **Business Intelligence**, combining my passion for football with data-driven storytelling.
+
+As an Argentina supporter and a long-time admirer of Lionel Messi, it was especially rewarding to see the analysis reflect Argentina's impressive tournament performance and Messi's impact among the competition's top attacking contributors.
+
+If you found this project interesting, feel free to ⭐ the repository!
