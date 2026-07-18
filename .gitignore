@@ -1,0 +1,32 @@
+# Power BI temporary/cache files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Python (if you later add ML scripts)
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI backup files
+*.pbix.autosave
+
+# Misc
+*.bak
+*.old
